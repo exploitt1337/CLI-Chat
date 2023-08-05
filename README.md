@@ -39,7 +39,7 @@ This is a simple command-line based chat application written in Go. It allows us
       putty -raw <server_public_ip> <port>
        ```
 
-   - **SSH (Secure Shell)**: Not added yet.
+   - **SSH (Secure Shell)**: Not supported yet.
 
 ## Closing Connection
 
