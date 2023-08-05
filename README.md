@@ -1,6 +1,6 @@
 # Welcome to F Society Chat 
 
-This is a simple command-line based chat application written in Go. It allows users to connect using `netcat` and share encrypted messages in a terminal environment. This is our playground.
+This is a simple command-line based chat application written in Go. It allows users to connect using `netcat` and share encrypted & anonymous messages in a terminal environment. This is our playground.
 
 ## Setup
 
